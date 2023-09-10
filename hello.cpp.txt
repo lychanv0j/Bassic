@@ -1,2 +1,2 @@
 // anh ha bao qua
-// nam cung bao y chang
+// huy khong co bao
